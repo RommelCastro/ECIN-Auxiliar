@@ -59,6 +59,22 @@ $(document).ready(() => {
 
     $('#nl3').click(() => {
     	$('#divPrincipal').animate({scrollTop:$('#topico3').position().top},1000);
+    })
+
+    $('#nl4').click(() => {
+        $('#divPrincipal').animate({scrollTop:$('#topico4').position().top},1000);
+    })
+
+    $('#nl5').click(() => {
+        $('#divPrincipal').animate({scrollTop:$('#topico5').position().top},1000);
+    })
+
+    $('#nl6').click(() => {
+        $('#divPrincipal').animate({scrollTop:$('#topico6').position().top},1000);
+    })
+
+    $('#nl7').click(() => {
+        $('#divPrincipal').animate({scrollTop:$('#topico7').position().top},1000);
     })	
 
 })

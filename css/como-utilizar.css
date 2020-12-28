@@ -101,3 +101,12 @@ h6{
 }
 
 .divMargin {padding: 2px 0px 2px 0px}
+
+.textosup{
+	text-align: justify;
+	font-size-adjust: 0.43;
+}
+
+.fontindice{
+	font-size-adjust: 0.46;
+}
